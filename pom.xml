@@ -29,16 +29,16 @@
     <distributionManagement>
     <repository>
       <uniqueVersion>false</uniqueVersion>
-      <id>vcard-releases</id>
-      <name>vcard-releases</name>
-      <url>http://ip-172-31-17-69.ap-south-1.compute.internal:8081/nexus/content/repositories/vcard-releases/</url>
+      <id>storage-102018-release</id>
+      <name>storage-102018-release</name>
+      <url>http://13.232.254.225:8081/nexus/content/repositories/storage-102018-release/</url>
       <layout>default</layout>
     </repository>
     <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
-      <id>vcard-snapshots</id>
-      <name>vcard-snapshots</name>
-      <url>http://ip-172-31-17-69.ap-south-1.compute.internal:8081/nexus/content/repositories/vcard-snapshots/</url>
+      <id>Storage-2018</id>
+      <name>Storage-2018</name>
+      <url>http://13.232.254.225:8081/nexus/content/repositories/Storage-2018/</url>
       <layout>legacy</layout>
     </snapshotRepository>
   </distributionManagement>
